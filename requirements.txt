@@ -1,0 +1,4 @@
+joblib
+psutil
+defusedxml
+pywin32
